@@ -4,7 +4,7 @@
   "description": "asynchronism in javascript with apis",
   "main": "index.js",
   "scripts": {
-    "callback": "node src/XMLHTTPRequest.js"
+    "callback": "node src/callback/XMLHTTPRequest.js"
   },
   "keywords": [
     "javascript",
