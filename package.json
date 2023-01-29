@@ -1,0 +1,15 @@
+{
+  "name": "asynchronism",
+  "version": "1.0.0",
+  "description": "asynchronism in javascript with apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "asynchronism"
+  ],
+  "author": "Deiby Rayo <deiby.developer@gmail.com>",
+  "license": "MIT"
+}
